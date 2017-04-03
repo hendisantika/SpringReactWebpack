@@ -1,4 +1,4 @@
-package fi.haagahelia.course.domain;
+package com.hendisantika.webpack.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
